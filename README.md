@@ -2,7 +2,7 @@
 
 #### It's a web app for displaying scores of two teams in any competitions like debate. It also contains audio media for the score.
 
-# GitHub LookBook  [:mag_right:](https://vinitshahdeo.github.io/GitHubLookBook/)
+# Score-App  [:mag_right:](https://score-app-1.netlify.app/)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ayush7614/Score-App?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/Ayush7614/Score-App?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ayush7614)
 
@@ -37,7 +37,7 @@ Other features help you to -
 
 #### [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/Ayush7614.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/Ayush7614)
 
 [![octocat](forkit.gif)](https://score-app-1.netlify.app/)
 
