@@ -1,4 +1,5 @@
-/* Author - Ayush Kumar*/
+/* Author - Vinit Shahdeo */
+/* Copyright - CodeChef VIT Chapter */
 
 function scoreTeamBlue(val) {
     var score = document.getElementById('blue').value;
@@ -8,7 +9,7 @@ function scoreTeamBlue(val) {
         new_score = 0;
     }
     
-    var path='audio/stereo_hearts.mp3';
+    var path='audio/'+val+'.mp3';
     var audioElement = document.createElement('audio');
   audioElement.setAttribute('src', path);
   audioElement.play();
@@ -25,7 +26,7 @@ function scoreTeamRed(val) {
         new_score = 0;
     }
     
-    var path='audio/stereo_hearts.mp3';
+    var path='audio/'+val+'.mp3';
     var audioElement = document.createElement('audio');
   audioElement.setAttribute('src', path);
   audioElement.play();
@@ -34,7 +35,7 @@ function scoreTeamRed(val) {
 }
 
 function reset(val){
-    var path='audio/stereo_hearts.mp3';
+    var path='audio/'+val+'.mp3';
     var audioElement = document.createElement('audio');
   audioElement.setAttribute('src', path);
   audioElement.play();
@@ -42,4 +43,4 @@ function reset(val){
     document.getElementById('blue').value=0;   
 }
 
-/* Made by Ayush Kumar */
+/* Made by Vinit Shahdeo for TechBlaze Event */
