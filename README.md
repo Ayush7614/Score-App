@@ -37,7 +37,7 @@ Other features help you to -
 
 #### [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/Ayush7614.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/Ayush7614)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/Ayush7614.svg?label=Follow%20@Ayush7614&style=social)](https://github.com/Ayush7614)
 
 [![octocat](forkit.gif)](https://score-app-1.netlify.app/)
 
