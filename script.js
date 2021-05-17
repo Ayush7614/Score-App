@@ -1,5 +1,4 @@
-/* Author - Vinit Shahdeo */
-/* Copyright - CodeChef VIT Chapter */
+/* Author - Ayush Kumar */
 
 function scoreTeamBlue(val) {
     var score = document.getElementById('blue').value;
@@ -43,4 +42,4 @@ function reset(val){
     document.getElementById('blue').value=0;   
 }
 
-/* Made by Vinit Shahdeo for TechBlaze Event */
+/* Made by Ayush Kumar */
