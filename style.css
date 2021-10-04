@@ -26,7 +26,6 @@ label {
 			3px -2px 0 #444, -3px -2px 0 #444, 
 			4px 1px 0 #444, -4px 1px 0 #444, 
 			4px -1px 0 #444, -4px -1px 0 #444;
-    
 }
 
 button {
@@ -115,9 +114,11 @@ font-weight:800;
 padding: 10px 20px 10px 20px;
 text-decoration: none;
 outline:none; 
+transition: ease 0.5s;
+transform: scale(0.9);
 }
 .btn:hover, .btn:focus{
-background: #006e2e; 
+background: #d614c6; 
 background: -moz-linear-gradient(top,  #006e2e 5%, #006e2e 87%); 
 background: -webkit-linear-gradient(top,  #006e2e 5%,#006e2e 87%); 
 background: linear-gradient(to bottom,  #006e2e 5%,#006e2e 87%); 
@@ -187,13 +188,11 @@ h2 {
 	left: 0;
 }
 
-@media only screen and (min-width: 769px) {
-    body {
-    overflow-x: hidden;
-    overflow-y: hidden;
-    }
-}
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 769px) {
+	body {
+		overflow-x: hidden;
+		overflow-y: hidden;
+		}
     input {
     font-size:4em;
     }
